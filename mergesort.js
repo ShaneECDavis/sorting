@@ -1,7 +1,7 @@
 function mergeSort(){
 
 }
-//split function
+//split function11
 function split(arr){
   let firstLength = Math.floor(arr.length / 2)
   let firstHalf = arr.slice(0, firstLength)
